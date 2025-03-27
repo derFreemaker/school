@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25006f52b2bf6414",
+        "id": "3d1e1df97edce1a7",
         "type": "tabs",
         "children": [
           {
-            "id": "8df7603120a286c0",
+            "id": "90cf9cd00ccaffdc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Phy/Photovoltaik/5_Script_Photovoltaik.pdf",
-                "page": 4,
-                "left": -12,
-                "top": 139,
-                "zoom": 1.203134448699859
-              },
-              "icon": "lucide-file-text",
-              "title": "5_Script_Photovoltaik"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
