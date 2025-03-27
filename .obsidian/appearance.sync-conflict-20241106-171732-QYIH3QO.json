@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2997db",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "callouts"
+  ]
+}

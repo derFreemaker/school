@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "bc3eaaa24415d022",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f164a519bf910d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b75e180a30660b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b4b83011ec1c9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26325a26ce34b20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57674d1c6eeca496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65fe3c75327ca8ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a06db561dd31377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "0c27f672b9fb6a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1db3d956d37278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8561fd8d288e9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ch/1. Chemische Reaktionen/Übungsaufgaben Freie Enthalpie 1A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Übungsaufgaben Freie Enthalpie 1A"
+            }
+          },
+          {
+            "id": "1c378882207a3c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Charakterisierung"
+            }
+          },
+          {
+            "id": "446d0ec9321ba1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c39f7f5fc3dd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Charakterisierung"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mathpad:Open Mathpad": false
+    }
+  },
+  "active": "52b75e180a30660b",
+  "lastOpenFiles": [
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/B.S 64 Nr. 10.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Bestimmen von Wendepunkten, Wendetangenten und Wendenormalen mit CAS.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Links- und Rechtskrümmung in Graphen.md",
+    "Mathe/Befehle.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Übung 12.11.2024.md",
+    "Ku/Mappe.md",
+    "Ku/Graphic Novel/Grafik_Novel_Aufgabe.pdf",
+    "Ku/Graphic Novel",
+    "Ku/New folder",
+    "Ge-Gk/Vorträge/Other/Die Sowjetunion/Extra.md",
+    "Ge-Gk/Vortrag Spiegelaffäre/Bilder",
+    "Ge-Gk/Vortrag Spiegelaffäre",
+    "Ku",
+    "Physik/Elektrisches Feld/1_Script_Elektrisches_Feld.pdf",
+    "Physik/Magnetisches Feld/2_Script_Magnetisches_Feld.pdf",
+    "Physik/Magnetisches Feld/Aufgaben zur Thematik des magnetischen Feldes.md",
+    "Physik/Magnetisches Feld/Extra.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Bestimmen relativer Extrempunkte mit CAS.sync-conflict-20241113-170946-G4IBIFN.md",
+    "Ethik/Sokrates Mäeutik als Mitte im Diskurs.md",
+    "Ch/1. Chemische Reaktionen/Übungsaufgaben Freie Enthalpie 1A.md",
+    "Ch/1. Chemische Reaktionen/1.6 Freie Enthalpie.md",
+    "Ch/1. Chemische Reaktionen/1.5 Die Entropie S.md",
+    "Ch/1. Chemische Reaktionen/1.4 Heizwerte und Brennwert.md",
+    "Ch/1. Chemische Reaktionen/1.3 Standardbildungsenthalpien und der Satz von Hess.md",
+    "WR/Belegarbeit/Belegarbeit.md",
+    "Ge-Gk/Vorträge/My/Spiegelaffäre/~syncthing~Spiegelaffaere.pptx.tmp",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/~syncthing~Bestimmen relativer Extrempunkte mit CAS.md.tmp",
+    "Ge-Gk/Politik.md",
+    "WR/Wirtschaftsordnung und Wirtschaftssysteme.md",
+    "WR/Sozialversicherungen in der BRD (Stand 01.01.2023).md",
+    "WR/Mittel der Wirtschaftspolitik in der sozialen MW der BRD.md",
+    "WR/Finanzierung von Unternehmen.md",
+    "WR/Entscheidungsträger und Einflussträger.md",
+    "WR/Das betriebliche Rechnungswesen.md",
+    "WR/Bilanz/Bilanz erstellung.md",
+    "Ge-Gk/Vorträge/Other/England/Handout 2.jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1.jpeg",
+    "Ge-Gk/Vorträge/Other/USA/Handout.jpeg",
+    "Ge-Gk/Vorträge/Other/USA/WhatsApp Image 2024-11-06 at 09.17.31.jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1 (2).jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1 (1).jpeg",
+    "Ge-Gk/Vorträge/Other/England/1 (2).jpeg",
+    "Ge-Gk/Vorträge/Other/England/1 (1).jpeg",
+    "Ge-Gk/Vorträge/Other/England/WhatsApp Image 2024-11-06 at 09.16.01 (1).jpeg",
+    "Ge-Gk/Vorträge/Other/England/WhatsApp Image 2024-11-06 at 09.16.01.jpeg",
+    "Untitled.canvas"
+  ]
+}

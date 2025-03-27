@@ -1,0 +1,9 @@
+.callout[data-callout="def"] {
+    --callout-color: 227, 142, 39;
+    --callout-icon: lucide-book-marked;
+}
+
+.callout[data-callout="variables"] {
+    --callout-color: 7, 242, 238;
+    --callout-icon: lucide-variable;
+}

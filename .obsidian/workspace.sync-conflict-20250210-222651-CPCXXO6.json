@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "bc3eaaa24415d022",
+    "type": "split",
+    "children": [
+      {
+        "id": "523b7ec074d51e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf70cedadce02099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WR/Steuern und Steuerpolitik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steuern und Steuerpolitik"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b4b83011ec1c9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26325a26ce34b20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57674d1c6eeca496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65fe3c75327ca8ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a06db561dd31377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "0c27f672b9fb6a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1db3d956d37278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8561fd8d288e9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ch/1. Chemische Reaktionen/Übungsaufgaben Freie Enthalpie 1A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Übungsaufgaben Freie Enthalpie 1A"
+            }
+          },
+          {
+            "id": "1c378882207a3c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Charakterisierung"
+            }
+          },
+          {
+            "id": "446d0ec9321ba1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c39f7f5fc3dd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Charakterisierung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bf70cedadce02099",
+  "lastOpenFiles": [
+    "WR/Konjunktur und Konjunkturpolitk.md",
+    "Misc/ClassPadII_UG_DE.pdf",
+    "Mathe/2.5/Übungmaterial/Übung.md",
+    "Mathe/2.5/Übungmaterial/Abiturprüfung LK 2014.md",
+    "Eth/Das Unbewusstsein, das Vorbewusstsein und das Bewusste.md",
+    "WR/Belegarbeit/Kontrolle/Kontrolle Belegarbeit Kontrolle.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung 2.5.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.5 Gesetzmäßigkeiten des chemischen Gleichgewichts.md",
+    "Ch/1. Chemische Reaktionen/1.3 Standardbildungsenthalpien und der Satz von Hess.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.2 Katalysatoren.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.3 Umkehrbare Reaktionen.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.4_Gleichgewichtszustand_Geschwindigkeits_Zeit_Diagramm.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.4 Der Gleichgewichtszustand.md",
+    "WR/Belegarbeit/Kontrolle/fehlende Prozente.png",
+    "WR/Belegarbeit/Kontrolle/fehlende Formeln.png",
+    "WR/Belegarbeit/Kontrolle",
+    "WR/Belegarbeit/~$legarbeit.docx",
+    "Mathe/2.5/Übungmaterial/B. S.260-261 Nr. 13,15,16.md",
+    "Mathe/2.5/Übungmaterial/~syncthing~B. S.260-261 Nr. 13,15,16.md.tmp",
+    "Mathe/2.5/Übungmaterial/Ex_B._S.261_Nr.15.md",
+    "Mathe/2.5/Übungmaterial/Ex_B._S.260_Nr.13.md",
+    "Mathe/2.5/Übungmaterial/Bestimmen ganzrationaler Funktionsterme.md",
+    "Mathe/2.5/2.5.3 Lösen von Extremwertaufgaben.md",
+    "Mathe/2.5/2.5.3_Beispiel_5.md",
+    "Mathe/2.5/2.5.3_Beispiel_4.md",
+    "Phy/Elektromagnetische Induktion/3_3_2_1_AB_Wechselstromkreis.pdf",
+    "Phy/Elektrische Maschinen/4_Script_Elektrische_Maschinen.pdf",
+    "Phy/Elektrische Maschinen/Aufgaben.md",
+    "Phy/Elektrische Maschinen/Omega.md",
+    "Phy/docs/5_Script_Photovoltaik.pdf",
+    "Eth/Determinismus.md",
+    "Physik/docs/4_Script_Elektrische_Maschinen.pdf.crdownload",
+    "Physik/docs/3_3_2_1_AB_Wechselstromkreis.pdf.crdownload",
+    "Eth/Freiheit - Verschiedene Bedeutungen, Dimensionen.md",
+    "Eth/KV19.md",
+    "Eth/Mills Regelutikitarimus.md",
+    "Eth/Platons Höhengleichung.md",
+    "Ge-Gk/Vorträge/Other/Glasnost und Perestroika/Handout-Glasnost_250129_091838.pdf",
+    "WR/BIP Konjunkturzyklus.png",
+    "WR/Belegarbeit/bilder/Market Share of Algo Trading.png",
+    "WR/Belegarbeit/bilder/1_Trade_Graph.png",
+    "WR/Belegarbeit/bilder/P_Trade_Graph.png",
+    "WR/Belegarbeit/bilder/P_Trade_Graph.png",
+    "{A94B04AF-8CE7-4BA8-A68C-2B358BD1C747}.png",
+    "WR/Belegarbeit/bilder/P_Trade_Data.png",
+    "Untitled.canvas"
+  ]
+}

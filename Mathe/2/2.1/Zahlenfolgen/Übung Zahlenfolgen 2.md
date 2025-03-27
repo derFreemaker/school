@@ -1,0 +1,12 @@
+$a_n=1-n$ ist divergent.
+$b_n=\frac{1}{1-2n}$ ist konvergiert gegen $0$.
+$c_n=\frac{n^3}{n^2+1}$ ist divergent.
+$d_n=\frac{(1-n)^2}{1+n^2}$ ist konvergiert gegen 1.
+$e_n=\frac{n^2-n}{n+1}$ ist divergent.
+$f_n=2^{n+1}-2^n$ ist divergent.
+$g_n=\frac{n*\cos(n*\pi)}{n+1}$ ist divergent.
+$h_n=\frac{3^n-2^n}{3^n}$ ist konvergiert gegen 1.
+$i_n=(-1)^n$ ist divergent.
+$j_n=\cos{2n*\pi}$ ist konvergent.
+$k_n=\frac{1+(-1)^n}{n}$ ist konvergent gegen 0.
+$l_n=\sqrt{n}*\cos(n*\pi)$ ist divergent.

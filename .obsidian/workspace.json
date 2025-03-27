@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "bc3eaaa24415d022",
+    "type": "split",
+    "children": [
+      {
+        "id": "25006f52b2bf6414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df7603120a286c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b4b83011ec1c9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26325a26ce34b20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57674d1c6eeca496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65fe3c75327ca8ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Stoffmengenkon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a06db561dd31377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "0c27f672b9fb6a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1db3d956d37278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8561fd8d288e9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1c378882207a3c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "446d0ec9321ba1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c39f7f5fc3dd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6353268003b969a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8df7603120a286c0",
+  "lastOpenFiles": [
+    "Eth/Adlers/Die Organminderwertigkeit.pdf",
+    "Test/git test.md",
+    "Ku/Graphic Novel/Grafik_Novel_Aufgabe.pdf",
+    "Ku/Graphic Novel/Grafik_Novel_Aufgabe.7z",
+    "Test",
+    "Eth/Phasenlehre.md",
+    "Eth/Adlers/Neurosenlehre_AB.md",
+    "Eth/Determination im Kontext von Recht und Strafe.md",
+    "Eth/Adlers/Organminderwertigkeit_AB.md",
+    "Eth/Determinismus.md",
+    "Eth/Das Unbewusstsein, das Vorbewusstsein und das Bewusste.md",
+    "Eth/Die Entstehung des Gemeinschaftsgefühls.md",
+    "Eth/Freuds Instanzmodell.jpg",
+    "Eth/Adlers/Nervöser neurotischer Charakter.md",
+    "Eth/Adlers/Pasted Image 20250306102236_301.png",
+    "Eth/Adlers/Nervöser neurotischer Charakter.pdf",
+    "Eth/Adlers/Neurosenlehre.pdf",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.jpg",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.md",
+    "Ch.zip",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung 2.5.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.5 Gesetzmäßigkeiten des chemischen Gleichgewichts.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung MGW und Protolysegleichgewicht.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Chemie12.jpg",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übungsaufgaben zum MWG und zu Protolysegleichgewicht.jpg",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.1 Die Reaktionsgeschwindigkeit.md",
+    "Ch/2. Chemische Reaktionen im Gleichgewicht/Bsp.md",
+    "Ge-Gk/Vormärz (1815-1848).md",
+    "En/education/Educationsystems.md",
+    "En/education/02a_Education system worksheet.pdf",
+    "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
+    "Mathe/6 Vektorgeometrie/Übung/Drawing 2025-03-25 10.22.44.excalidraw.md",
+    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.2 Koordinatendarstellung von Vektoren.md",
+    "Mathe/6 Vektorgeometrie/Übung",
+    "En/education/Vocabulary.md",
+    "Ge-Gk/Vorträge/Other/Wienerkongress/Extra.md",
+    "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (2).jpg",
+    "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (1).jpg",
+    "En/Ways of Learning/Notes.md",
+    "En/Ways of Learning/Determiners.md",
+    "WR/Geld und Geldpolitik.md",
+    "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",
+    "Ge-Gk/Vorträge/Other/Napoleon/Napoleon.jpg",
+    "Mathe/2/2.5/Übungmaterial/ABs/IQB-Differentialrechnung_15-1_15-2_13_12.png",
+    "Untitled.canvas"
+  ]
+}

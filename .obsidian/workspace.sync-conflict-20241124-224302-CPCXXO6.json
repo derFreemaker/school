@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "bc3eaaa24415d022",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8eceab30ed0e23b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6383881bfa2ee8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Wdh. Einfluss von Parameter auf die Graphen von Funktionen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wdh. Einfluss von Parameter auf die Graphen von Funktionen"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b4b83011ec1c9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26325a26ce34b20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57674d1c6eeca496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65fe3c75327ca8ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a06db561dd31377",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "0c27f672b9fb6a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1db3d956d37278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8561fd8d288e9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ch/1. Chemische Reaktionen/Übungsaufgaben Freie Enthalpie 1A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Übungsaufgaben Freie Enthalpie 1A"
+            }
+          },
+          {
+            "id": "1c378882207a3c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Charakterisierung"
+            }
+          },
+          {
+            "id": "446d0ec9321ba1f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51c39f7f5fc3dd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "De/Der zerbrochne Krug/Charakterisierung.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Charakterisierung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6383881bfa2ee8a2",
+  "lastOpenFiles": [
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Bestimmen relativer Extrempunkte mit CAS.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Wdh. Einfluss von Parameter auf die Graphen von Funktionen.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Übung 12.11.2024.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Bestimmen relativer Extrempunkte mit CAS.sync-conflict-20241113-170946-G4IBIFN.md",
+    "Mathe/2.3/2.3.3 Anwendungen der 1. Ableitung.md",
+    "IS/Logic Gates/Gleichungen.md",
+    "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",
+    "Misc/Mathe Notations.md",
+    "IS/Logic Gates/Lösung 22.11.2024.jpeg",
+    "IS/Logic Gates/Aufgaben 22.11.2024.jpeg.crdownload",
+    "Physik/Elektrisches Feld/1_Script_Elektrisches_Feld.pdf",
+    "Physik/Magnetisches Feld/2_Script_Magnetisches_Feld.pdf",
+    "Physik/Magnetisches Feld/Aufgaben zur Thematik des magnetischen Feldes.md",
+    "Platons Höhengleichung.md",
+    "Mathe/2.4 Zusammenhänge zwischen den Graphen der Funktionen f, f' und f''/Funktionsscharen.md",
+    "En/Identity/Mary B. 14-16.md",
+    "En/Identity/Ch_12_T1_Lehrbuchseiten_p14_16.pdf",
+    "En/Identity/WB. 2e.md",
+    "En/Identity/Eating.md",
+    "En/Identity/Ch_12_T1_WB_Seiten_p05_06.pdf",
+    "Ge-Gk/Demokratische Wirklichkeit in Demokratie u. Diktatur.md",
+    "WR/Beitragsätze.md",
+    "WR/Lohn- und Gehaltsberechnung.md",
+    "WR/Mittel der Wirtschaftspolitik in der sozialen MW der BRD.md",
+    "WR/Sozialversicherungen in der BRD (Stand 01.01.2023).md",
+    "WR/Wirtschaftsordnung und Wirtschaftssysteme.md",
+    "WR/Das betriebliche Rechnungswesen.md",
+    "WR/Finanzierung von Unternehmen.md",
+    "WR/Entscheidungsträger und Einflussträger.md",
+    "Ku/Graphic Novel/Grafik_Novel_Aufgabe.pdf",
+    "Ku/Graphic Novel/GraphicNovel.png",
+    "Ku/Graphic Novel/~syncthing~GraphicNovel.png.tmp",
+    "Ku/Graphic Novel/~syncthing~GraphicNovel.kra~.tmp",
+    "Ku/Graphic Novel/~syncthing~GraphicNovel.kra.tmp",
+    "Ku/Graphic Novel/Drawing 2024-11-17 18.05.00.excalidraw.md",
+    "Ku/Graphic Novel/~syncthing~.GraphicNovel.kra-autosave.kra.tmp",
+    "Ku/Mappe.md",
+    "Ge-Gk/Vorträge/Other/Die Sowjetunion/Extra.md",
+    "Ge-Gk/Vorträge/Other/England/Handout 2.jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1.jpeg",
+    "Ge-Gk/Vorträge/Other/USA/Handout.jpeg",
+    "Ge-Gk/Vorträge/Other/USA/WhatsApp Image 2024-11-06 at 09.17.31.jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1 (2).jpeg",
+    "Ge-Gk/Vorträge/Other/England/Handout 1 (1).jpeg",
+    "Ge-Gk/Vorträge/Other/England/1 (2).jpeg",
+    "Untitled.canvas"
+  ]
+}

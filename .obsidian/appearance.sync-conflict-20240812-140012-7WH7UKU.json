@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#47cbe6",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "snippets"
+  ]
+}

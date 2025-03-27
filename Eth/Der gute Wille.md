@@ -1,0 +1,4 @@
+- Verstand, Urteilskraft, Tugended, Glücksgaben etc. sind nicht ohne Einschränkung gut, weil sie auch zu "bösen" Zwecken genutzt werden können.
+- ohne Einschränkung gut ist allein der gute Wille
+- die Konsequenzen werden nicht berücksichtigt
+- der gute Wille muss sich durch Aufbietung aller Mittel äußern

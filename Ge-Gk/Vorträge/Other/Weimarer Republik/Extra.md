@@ -1,0 +1,21 @@
+- Weimar war demokratisch beschränkt
+- Artikel 25 Auflösung des Reichstages möglich
+
+# Ursachen für das Scheitern der Weimarer Republik
+- Inhalt Versailler Vertrag
+- Dolchstoßlegende (Demokraten sind Soldaten in den Rücken gefallen) (Unsinn)
+- Politische Morde und Putschversuche
+- Verfassung-Mängle
+	- Destruktive Missvertrauen
+		- Absetzung der Reichsregierung durch den Reichstag ohne alternative Regierung
+		- Instabile Regierung
+- Wirtschaftskrisen
+	- Hyperinflation von 1923
+	- Weltwirtschaftskriese von 1928
+- Politikversagen
+	- Fortbestehen der alten Eliten aus dem Kaiserreich
+	- Geringe Kompromissbereitschaft zwischen den Parteien
+	- Präsidialkabinette (1930-1933) (ohne Parlament Gesetze erlassen)
+- Antidemokratische Tradition
+	- Wunsch nach starker Führungskraft
+	- "Demokratie ohne Demokraten"

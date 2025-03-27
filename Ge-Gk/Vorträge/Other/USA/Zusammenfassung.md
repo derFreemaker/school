@@ -1,0 +1,7 @@
+- Es gibt eine Gewaltenteilung
+- Es gibt freie und faire Wahlen
+	- min 18 Jahre
+	- Anmeldung nötig
+	- Staatsbürger
+- USA ist Rechtsstaatlich.
+- 

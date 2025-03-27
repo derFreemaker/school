@@ -1,0 +1,4 @@
+- Modalverben sind für alle Personen gleich
+- Modalverben modifizieren die Bedeutung des Vollverbs
+- sie stehen vor allen anderen Verben
+- Verb nach Modalverb steht im Infinitiv
