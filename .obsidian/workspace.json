@@ -11,10 +11,16 @@
             "id": "8df7603120a286c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Phy/Photovoltaik/5_Script_Photovoltaik.pdf",
+                "page": 4,
+                "left": -12,
+                "top": 139,
+                "zoom": 1.203134448699859
+              },
+              "icon": "lucide-file-text",
+              "title": "5_Script_Photovoltaik"
             }
           }
         ],
@@ -160,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 490.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8df7603120a286c0",
+  "active": "57674d1c6eeca496",
   "lastOpenFiles": [
+    "Phy/Photovoltaik",
     "Eth/Adlers/Die Organminderwertigkeit.pdf",
     "Test/git test.md",
     "Ku/Graphic Novel/Grafik_Novel_Aufgabe.pdf",
