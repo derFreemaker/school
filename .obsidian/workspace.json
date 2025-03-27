@@ -11,14 +11,10 @@
             "id": "90cf9cd00ccaffdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Tets/testgit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "testgit"
+              "title": "New tab"
             }
           }
         ],
@@ -182,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90cf9cd00ccaffdc",
+  "active": "57674d1c6eeca496",
   "lastOpenFiles": [
     "Phy/Photovoltaik/5_Script_Photovoltaik.pdf",
     "Git Tets/testgit.md",
