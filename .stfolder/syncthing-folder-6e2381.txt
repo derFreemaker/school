@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: z5m3d-awyun
-created: 2024-11-13T13:18:05+01:00
