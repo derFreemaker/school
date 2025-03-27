@@ -11,10 +11,14 @@
             "id": "90cf9cd00ccaffdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git Tets/testgit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "testgit"
             }
           }
         ],
@@ -160,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5,
-    "collapsed": true
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57674d1c6eeca496",
+  "active": "90cf9cd00ccaffdc",
   "lastOpenFiles": [
+    "Phy/Photovoltaik/5_Script_Photovoltaik.pdf",
+    "Git Tets/testgit.md",
+    "Git Tets",
     "Phy/Photovoltaik",
     "Eth/Adlers/Die Organminderwertigkeit.pdf",
     "Test/git test.md",
@@ -212,18 +218,15 @@
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Bsp.md",
     "Ge-Gk/Vormärz (1815-1848).md",
     "En/education/Educationsystems.md",
-    "En/education/02a_Education system worksheet.pdf",
     "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
     "Mathe/6 Vektorgeometrie/Übung/Drawing 2025-03-25 10.22.44.excalidraw.md",
     "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.2 Koordinatendarstellung von Vektoren.md",
-    "Mathe/6 Vektorgeometrie/Übung",
     "En/education/Vocabulary.md",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Extra.md",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (2).jpg",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (1).jpg",
     "En/Ways of Learning/Notes.md",
     "En/Ways of Learning/Determiners.md",
-    "WR/Geld und Geldpolitik.md",
     "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",
     "Ge-Gk/Vorträge/Other/Napoleon/Napoleon.jpg",
     "Mathe/2/2.5/Übungmaterial/ABs/IQB-Differentialrechnung_15-1_15-2_13_12.png",
