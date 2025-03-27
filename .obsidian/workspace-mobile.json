@@ -96,13 +96,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ch/1. Chemische Reaktionen/1.4 Heizwerte und Brennwert.md",
+            "file": "Ku/Mappe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
