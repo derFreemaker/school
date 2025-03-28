@@ -17,4 +17,4 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 | Haufenreim             | aaa...  |
 
 # Binnenreim
-Zwei oder mehre
+Zwei oder mehrere Wöre
