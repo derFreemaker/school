@@ -1,3 +1,8 @@
+.callout[data-callout="important"] {
+    --callout-color: 255, 0, 0;
+    --callout-icon: lucide-activity;
+}
+
 .callout[data-callout="def"] {
     --callout-color: 227, 142, 39;
     --callout-icon: lucide-book-marked;
