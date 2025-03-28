@@ -47,6 +47,7 @@
 > mit regelmäßigem Reimschema
 
 # Verspaarkette
-Folge von Verspaaren
+
+> [!note] Folge von Verspaaren
 
 > [!tip] oft durch Paarreim verbunden
