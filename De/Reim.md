@@ -1,9 +1,7 @@
 # Endreim
 Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
-> [!tip]
-> "Wind" - "Kind"
-> "Erden" - "werden"
+> [!tip] "Wind" - "Kind"; "Erden" - "werden"
 
 ## Schemata
 
@@ -39,3 +37,10 @@ Zwei unmittelbar aufeinander folgende Wörter reimen sich.
 Nur die Vokale, nicht aber die Konsonanten stimmen überein
 
 > [!note] "sagen" - "Raben"
+
+> [!tip] Unreiner Reim
+
+# Stabreim
+Mehrere Wörter beginnen mit demselben Buchstaben
+
+> [!tip] auch Alliteration
