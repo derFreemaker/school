@@ -1,6 +1,10 @@
 # Endreim
-Der genaue Gleich
+Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
+> [!NOTE] Title
+> Contents
+
+("Wind". "Kind"; "Erden" - "werden")
 
 ## Schemata
 
