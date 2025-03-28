@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "De/Versmaß.md",
+                "file": "De/Lyrik/Strophenform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Versmaß"
+              "title": "Strophenform"
             }
           }
         ],
@@ -185,8 +185,10 @@
   },
   "active": "90cf9cd00ccaffdc",
   "lastOpenFiles": [
-    "De/Reim.md",
-    "De/Versmaß.md",
+    "De/Lyrik/Versmaß.md",
+    "De/Lyrik/Strophenform.md",
+    "De/Lyrik",
+    "De/Lyrik/Reim.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/2.2 Katalysatoren.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Katalysatoren_Inhubition.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Biokatalysator_Vorgang.md",
@@ -213,7 +215,6 @@
     "Eth/Adlers/Neurosenlehre.pdf",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.jpg",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.md",
-    "Ch.zip",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung 2.5.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/2.5 Gesetzmäßigkeiten des chemischen Gleichgewichts.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung MGW und Protolysegleichgewicht.md",
@@ -224,8 +225,6 @@
     "Ge-Gk/Vormärz (1815-1848).md",
     "En/education/Educationsystems.md",
     "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
-    "Mathe/6 Vektorgeometrie/Übung/Drawing 2025-03-25 10.22.44.excalidraw.md",
-    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.2 Koordinatendarstellung von Vektoren.md",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (2).jpg",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (1).jpg",
     "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",
