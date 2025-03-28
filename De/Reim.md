@@ -8,6 +8,6 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
 ## Schemata
 
-|     |     |
-| --- | --- |
-|     |     |
+| Paarreim | Kreuzreim |
+| -------- | --------- |
+| aa       |           |
