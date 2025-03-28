@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1e1df97edce1a7",
+        "id": "7b890de5f3ebab7a",
         "type": "tabs",
         "children": [
           {
-            "id": "90cf9cd00ccaffdc",
+            "id": "3e51327dee65e17c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "De/Lyrik/Strophenform.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Strophenform"
+              "title": "New tab"
             }
           }
         ],
@@ -164,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 490.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90cf9cd00ccaffdc",
+  "active": "3e51327dee65e17c",
   "lastOpenFiles": [
-    "De/Lyrik/Versmaß.md",
     "De/Lyrik/Strophenform.md",
+    "De/Lyrik/Versmaß.md",
     "De/Lyrik/Reim.md",
     "De/Lyrik",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/2.2 Katalysatoren.md",
