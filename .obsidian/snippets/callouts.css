@@ -1,6 +1,7 @@
 .callout[data-callout="important"] {
     --callout-color: 255, 0, 0;
     --callout-icon: lucide-activity;
+    font-size: 20px;
 }
 
 .callout[data-callout="def"] {
