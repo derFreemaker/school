@@ -11,10 +11,14 @@
             "id": "3e51327dee65e17c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.3 Anwendung von Vektoren I.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6.1.3 Anwendung von Vektoren I"
             }
           }
         ],
@@ -181,6 +185,9 @@
   },
   "active": "3e51327dee65e17c",
   "lastOpenFiles": [
+    "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
+    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.3 Anwendung von Vektoren I.md",
+    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.2 Koordinatendarstellung von Vektoren.md",
     "De/Lyrik/Strophenform.md",
     "De/Lyrik/Versmaß.md",
     "De/Lyrik/Reim.md",
@@ -219,8 +226,6 @@
     "Ch/2. Chemische Reaktionen im Gleichgewicht/2.1 Die Reaktionsgeschwindigkeit.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Bsp.md",
     "Ge-Gk/Vormärz (1815-1848).md",
-    "En/education/Educationsystems.md",
-    "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (2).jpg",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (1).jpg",
     "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",

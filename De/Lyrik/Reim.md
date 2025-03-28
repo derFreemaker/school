@@ -3,15 +3,6 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
 > [!tip] "Wind" - "Kind"; "Erden" - "werden"
 
-<<<<<<< HEAD
-> [!note] Format
-> - Paarreim: aa
-> - Kreuzreim: abab
-> - umarmender Reim: abba
-> - Schweifreim: aabccb
-> - dreifache Reimreihe: abcabc
-> - Haufenreim: aaa...
-=======
 ## Schemata
 
 | Name                   | Pattern |
@@ -22,7 +13,6 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 | Schweifreim            | aabccb  |
 | dreifefache Reimreiche | abcabc  |
 | Haufenreim             | aaa...  |
->>>>>>> a15f85b ([sync] vault backup: 2025-03-28 08:07:05)
 
 # Binnenreim
 Zwei oder mehrere Wörter in ein und demselben Vers reimen sich.
