@@ -1,7 +1,7 @@
 # Endreim
 Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
-> [!NOTE]
+> [!tip]
 > "Wind" - "Kind"
 > "Erden" - "werden"
 
@@ -19,8 +19,23 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 # Binnenreim
 Zwei oder mehrere Wörter in ein und demselben Vers reimen sich.
 
-> [!def]
-> Contents
+> [!note] Format
+> ... --- xxx xxx --- ...
 
 # Anfangsreim
 Reim der ersten Wörter zweier Verse
+
+> [!note] Format
+> xxx --- --- ...
+> xxx --- --- ...
+
+# Schlagreim
+Zwei unmittelbar aufeinander folgende Wörter reimen sich.
+
+> [!note] Format
+> ... --- xxx xxx --- ...
+
+# Assonanz
+Nur die Vokale, nicht aber die Konsonanten stimmen überein
+
+> [!note] "sagen" - "Raben"
