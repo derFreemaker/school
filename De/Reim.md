@@ -8,10 +8,10 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 
 ## Schemata
 
-| Name            | Pattern |
-| --------------- | ------- |
-| Paarreim        | aa      |
-| Kreuzreim       | abab    |
-| umarmender Reim | abba    |
-| Schweifreim     | aabccb  |
-| dreiffache      |         |
+| Name                | Pattern |
+| ------------------- | ------- |
+| Paarreim            | aa      |
+| Kreuzreim           | abab    |
+| umarmender Reim     | abba    |
+| Schweifreim         | aabccb  |
+| dreiffache Reimreic |         |
