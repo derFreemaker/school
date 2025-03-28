@@ -1,4 +1,5 @@
 # Distichon
+<<<<<<< HEAD
 
 > [!NOTE] Hexameter
 > ein daktylischen Vers mit 6 Versfüßen
@@ -24,3 +25,9 @@
 > [!note] Folge von Verspaaren
 
 > [!tip] oft durch Paarreim verbunden
+=======
+Besteht aus zwei Versen
+
+> [!NOTE] ein daktylischen Vers mit 6 Versfüßen
+> 
+>>>>>>> a15f85b ([sync] vault backup: 2025-03-28 08:07:05)
