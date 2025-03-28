@@ -17,4 +17,10 @@ Der genaue Gleichklang der Verenden vom letzten betonten Vokal an
 | Haufenreim             | aaa...  |
 
 # Binnenreim
-Zwei oder mehrere Wöre
+Zwei oder mehrere Wörter in ein und demselben Vers reimen sich.
+
+> [!def]
+> Contents
+
+# Anfangsreim
+Reim der ersten Wörter zweier Verse
