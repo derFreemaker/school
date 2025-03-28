@@ -11,4 +11,3 @@ $\frac{390km/h}{340km/h} \approx 1.15$
 $15\%$ schneller
 
 ## c
-

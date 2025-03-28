@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "420bf930db11a758",
+        "id": "842ef7649dd564eb",
         "type": "tabs",
         "children": [
           {
-            "id": "e3159a5341109e26",
+            "id": "9573589a047ef2c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.3 Anwendung von Vektoren I.md",
+                "file": "Mathe/6 Vektorgeometrie/Übung/Vektorielle Größen 1A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1.3 Anwendung von Vektoren I"
+              "title": "Vektorielle Größen 1A"
             }
           }
         ],
@@ -183,10 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3159a5341109e26",
+  "active": "9573589a047ef2c8",
   "lastOpenFiles": [
-    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.1 Pfeilklassen (Vektor).md",
+    "Mathe/6 Vektorgeometrie/Übung/Vektorielle Größen 1A_1a.md",
+    "Mathe/6 Vektorgeometrie/Übung/Vektorielle Größen 1A.md",
+    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.4 Anwendung von Vektoren II.md",
+    "Misc/Mathe Notations.md",
     "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.3 Anwendung von Vektoren I.md",
+    "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.1 Pfeilklassen (Vektor).md",
     "Mathe/6 Vektorgeometrie/Übung/Verschiebungspfeile 2.md",
     "Mathe/6 Vektorgeometrie/6.1 Vektorbegriff/6.1.2 Koordinatendarstellung von Vektoren.md",
     "De/Lyrik/Strophenform.md",
@@ -220,12 +224,8 @@
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.jpg",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Massenwirkungsgesetz 12.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung 2.5.md",
-    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.5 Gesetzmäßigkeiten des chemischen Gleichgewichts.md",
-    "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übung MGW und Protolysegleichgewicht.md",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Chemie12.jpg",
     "Ch/2. Chemische Reaktionen im Gleichgewicht/Übung/Übungsaufgaben zum MWG und zu Protolysegleichgewicht.jpg",
-    "Ch/2. Chemische Reaktionen im Gleichgewicht/2.1 Die Reaktionsgeschwindigkeit.md",
-    "Ch/2. Chemische Reaktionen im Gleichgewicht/Bsp.md",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (2).jpg",
     "Ge-Gk/Vorträge/Other/Wienerkongress/Wienerkongress (1).jpg",
     "IS/Logic Gates/Aufgaben 22.11.2024.jpeg",
