@@ -34,3 +34,6 @@ $\vec{BC}=\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}$
 $D(3|3|1)$
 
 # 5
+## a
+$\vec{b} = \vec{r}+\frac{1}{2}\vec{d}$
+$\vec{b} = $
