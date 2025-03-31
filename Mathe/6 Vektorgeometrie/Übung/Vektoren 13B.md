@@ -28,6 +28,9 @@ $\begin{pmatrix} -5 \\ 5 \\ 6 \end{pmatrix} = \begin{pmatrix} 1 \\ -1 \\ -4 \end
 --> **kein** Parallelogramm
 
 # 4
-$\vec{AB} = \begin{pmatrix} 1 \\ -5 \\ 2 \end{pmatrix}$
+$\vec{BC}=\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}$
+
+($A + \vec{BC} = D$) // we don't like this
 $D(3|3|1)$
 
+# 5
