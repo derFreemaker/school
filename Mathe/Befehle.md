@@ -34,3 +34,6 @@ template: $\text{Define }f(x)=...$
 none
 
 Definiert die Funktion $f$ mit Parameter $x$
+
+# norm
+template: $norm( []:\text{Vektor} )$

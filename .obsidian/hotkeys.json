@@ -40,15 +40,7 @@
       "key": "ArrowRight"
     }
   ],
-  "workspace:goto-last-tab": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
+  "workspace:goto-last-tab": [],
   "editor:open-search-replace": [
     {
       "modifiers": [
@@ -115,6 +107,24 @@
         "Mod"
       ],
       "key": "."
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
