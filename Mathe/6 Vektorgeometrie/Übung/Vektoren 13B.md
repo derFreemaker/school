@@ -34,6 +34,9 @@ $\vec{BC}=\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}$
 $D(3|3|1)$
 
 # 5
-## a
-$\vec{b} = \vec{r}+\frac{1}{2}\vec{d}$
-$\vec{b} = $
+## b
+1. Falsch, unterschiedliche Richtung
+2. Richtig, gleiche Länge
+3. Richtig, hebt sich auf
+4. Falsch, Länge beleibt gleich bei negation
+5. Falsch, $\frac{1}{|\vec{r}|}\cdot\vec{r}$ ist ein Vektor kann nicht mit $1$ gleich gestellt werden
