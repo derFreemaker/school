@@ -44,12 +44,22 @@ $\begin{pmatrix} -5 \\ 5 \\ 6 \end{pmatrix} \neq \begin{pmatrix} 1 \\ -1 \\ -4 \
 # 4
 $\vec{BC}=\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}$
 
-($A + \vec{BC} = D$) // we don't like this
+// error: we don't like this, well I do, but math doesn't,
+// because math doesn't do type conversion
+// and has no operator overloading for this
+$A + \vec{BC} = D$
+
+// note: same data
+$A \to \vec{OA}$
+
+// note: math wants this
+$\vec{OA} + \vec{BC} = \vec{OD}$
+2|4|1
 $D(3|3|1)$
 
 # 5
 ## b
-1. Falsch, unterschiedliche Richtung
+1. Falsch, unterschiedliche Richtungen
 2. Richtig, gleiche Länge
 3. Richtig, hebt sich auf
 4. Falsch, Länge beleibt gleich bei negation
