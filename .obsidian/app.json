@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -12,6 +12,6 @@
   "showLineNumber": true,
   "defaultViewMode": "source",
   "uriCallbacks": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "newFileLocation": "current"
 }
